@@ -1,0 +1,21 @@
+#about-paragraph {
+    background-color: darkblue;
+    color:white;
+    padding:16px;
+    border-radius:8px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.projects-paragraph {
+    background-color: azure;
+    color:black;
+    padding:16px;
+    font-family: Georgia;
+}
+
+#about-header {
+    color:white;
+    padding:8px;
+    font-family: Segoe UI;
+    background-color: blueviolet;
+}
